@@ -9,8 +9,8 @@
     <Platform Condition="'$(Platform)' == ''">x86</Platform>
     <ProjectGuid>{7F3CB45E-4993-4FA4-8D6A-C2DFFED2DFC3}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Roslyn.InteractiveWindow.UnitTests</RootNamespace>
-    <AssemblyName>Roslyn.InteractiveWindow.UnitTests</AssemblyName>
+    <RootNamespace>Microsoft.CodeAnalysis.InteractiveWindow.UnitTests</RootNamespace>
+    <AssemblyName>Microsoft.CodeAnalysis.InteractiveWindow.UnitTests</AssemblyName>
     <PlatformTarget>x86</PlatformTarget>
     <SolutionDir Condition="'$(SolutionDir)' == '' OR '$(SolutionDir)' == '*Undefined*'">..\..\..\</SolutionDir>
     <RestorePackages>true</RestorePackages>

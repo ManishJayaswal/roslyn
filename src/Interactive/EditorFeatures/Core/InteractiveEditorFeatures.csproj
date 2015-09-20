@@ -110,8 +110,8 @@
     <InternalsVisibleTo Include="Microsoft.VisualStudio.VisualBasic.Repl" />
     <!-- The rest are for test purposes only. -->
     <InternalsVisibleToTest Include="Roslyn.Hosting.Diagnostics" />
-    <InternalsVisibleToTest Include="Roslyn.InteractiveHost.UnitTests" />
-    <InternalsVisibleToTest Include="Roslyn.InteractiveWindow.UnitTests" />
+    <InternalsVisibleToTest Include="Microsoft.CodeAnalysis.InteractiveHost.UnitTests" />
+    <InternalsVisibleToTest Include="Microsoft.CodeAnalysis.InteractiveWindow.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.CSharp.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.UnitTests2" />

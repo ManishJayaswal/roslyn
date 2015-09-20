@@ -51,9 +51,8 @@
     <InternalsVisibleTo Include="VBCSCompiler" />
     <InternalsVisibleToTest Include="Roslyn.DebuggerVisualizers" />
     <InternalsVisibleToTest Include="Roslyn.Hosting.Diagnostics" />
-    <InternalsVisibleToTest Include="Roslyn.InteractiveHost.UnitTests" />
-    <InternalsVisibleToTest Include="Roslyn.InteractiveWindow.UnitTests" />
-    <InternalsVisibleToTest Include="Roslyn.InteractiveWindow.UnitTests" />
+    <InternalsVisibleToTest Include="Microsoft.CodeAnalysis.InteractiveHost.UnitTests" />
+    <InternalsVisibleToTest Include="Microsoft.CodeAnalysis.InteractiveWindow.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.CSharp.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.UnitTests" />
     <InternalsVisibleToTest Include="Roslyn.Services.Editor.UnitTests2" />
